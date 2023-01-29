@@ -10,6 +10,7 @@
 //https://l1pp6.csb.app/
 
 //HINT: You will need to study the classes in teh styles.css file to appy styling.
+//Challenge.: Render all the notes inside notes.js as  a seperate Note component
 
 import React from "react";
 import ReactDOM from "react-dom";
